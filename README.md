@@ -6,9 +6,9 @@ Author: Oliver Ruebenkoenig
 This software is based on the work of Per-Olof Persson and Gilbert
 Strang: http://persson.berkeley.edu/distmesh/
 
-<img src="https://dl.dropboxusercontent.com/u/6122471/wolfram/github/notebook.svg" width="134" height="26">
+<a href="http://www.wolframcloud.com"><img src="https://dl.dropboxusercontent.com/u/6122471/wolfram/github/notebook.svg" width="134" height="26"></a>
 
-<img src="https://dl.dropboxusercontent.com/u/6122471/wolfram/github/cdf.svg" width="134" height="26">
+<a href="http://www.wolframcloud.com"><img src="https://dl.dropboxusercontent.com/u/6122471/wolfram/github/cdf.svg" width="134" height="26"></a>
 
 ### Introduction
 This is a Wolfram Language port of [*DistMesh*](http://persson.berkeley.edu/distmesh/) and licensed under GPL v2.0
