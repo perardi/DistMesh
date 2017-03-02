@@ -8,7 +8,6 @@ Strang: http://persson.berkeley.edu/distmesh/
 
 [![View notebooks](https://www.wolframcloud.com/objects/github-cloud/notebookviewersource/Images/badge.png)](https://www.wolframcloud.com/objects/github-cloud/api/1.0/CommitObj?user=perardi&repo=DistMesh&branch=master)
 
-[![View notebooks](https://dl.dropboxusercontent.com/u/6122471/wolfram/github/github-integration/img/notebook.png)](https://www.wolframcloud.com/objects/github-cloud/api/1.0/CommitObj?user=perardi&repo=DistMesh&branch=master)
 
 ### Introduction
 This is a Wolfram Language port of [*DistMesh*](http://persson.berkeley.edu/distmesh/) and licensed under GPL v2.0
